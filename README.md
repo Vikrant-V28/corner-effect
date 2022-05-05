@@ -16,12 +16,12 @@ The simple code to create beautiful `Corner Effect` using HTML, CSS, SCSS & Vani
 ### Output Screenshot
 <details><summary><b>Output 1</b></summary>
   <p align="center">
-    <a href="Outputs/output1.png"><img src="https://user-images.githubusercontent.com/85709371/149294245-52f730de-df34-4b7e-9ee4-31c37a088432.png" alt="output 1"></a>
+    <a href="Outputs/output 1.png"><img src="https://user-images.githubusercontent.com/85709371/149294245-52f730de-df34-4b7e-9ee4-31c37a088432.png" alt="output 1"></a>
   </p>
 </details>
 <details><summary><b>Output 2</b></summary>
   <p align="center">
-    <a href="Outputs/output2.png"><img src="https://user-images.githubusercontent.com/85709371/149294280-0f4e27bb-220e-488c-8210-a7d3cc39d541.png" alt="output 2"></a>
+    <a href="Outputs/output 2.png"><img src="https://user-images.githubusercontent.com/85709371/149294280-0f4e27bb-220e-488c-8210-a7d3cc39d541.png" alt="output 2"></a>
   </p>
 </details>
 
