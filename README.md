@@ -29,7 +29,3 @@ The simple code to create beautiful `Corner Effect` using HTML, CSS, SCSS & Vani
 
 ## *Author Name*
 [Vikrant](https://github.com/thevkrant)
-
-![Corner Text 1 0]()
-
-![Corner Text 1 1]()
