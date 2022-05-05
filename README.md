@@ -21,7 +21,7 @@ The simple code to create beautiful `Corner Effect` using HTML, CSS, SCSS & Vani
 </details>
 <details><summary><b>Output 2</b></summary>
   <p align="center">
-    <a href="Outputs/output2.png"><img src="https://user-images.githubusercontent.com/85709371/148986323-e165bcc4-4b88-4b3f-b462-80a8c1f2ea57.png" alt="output 2"></a>
+    <a href="Outputs/output2.png"><img src="https://user-images.githubusercontent.com/85709371/149294280-0f4e27bb-220e-488c-8210-a7d3cc39d541.png" alt="output 2"></a>
   </p>
 </details>
 
@@ -32,4 +32,4 @@ The simple code to create beautiful `Corner Effect` using HTML, CSS, SCSS & Vani
 
 ![Corner Text 1 0]()
 
-![Corner Text 1 1](https://user-images.githubusercontent.com/85709371/149294280-0f4e27bb-220e-488c-8210-a7d3cc39d541.png)
+![Corner Text 1 1]()
