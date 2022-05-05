@@ -1,5 +1,5 @@
 # Corner Effect
-Visit <a href="https://vikrant-v28.github.io/corner-effect/">Here</a>
+<!-- Visit <a href="https://vikrant-v28.github.io/corner-effect/">Here</a> -->
 
 ![Corner Text 1 0](https://user-images.githubusercontent.com/85709371/149294245-52f730de-df34-4b7e-9ee4-31c37a088432.png)
 
